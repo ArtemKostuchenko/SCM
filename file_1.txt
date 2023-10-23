@@ -1,2 +1,6 @@
 from PyQt6.QtCore import Qt
-from PyQt6.QtGui import QCursor
+from PyQt6.QtGui import QCursor, QPropertyAnimation
+
+class Test:
+	def __init__(self) -> None:
+		pass
